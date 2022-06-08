@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.35d05416.css",
+    "main.js": "/static/js/main.388b9b35.js",
+    "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
+    "static/media/web1.jpg": "/static/media/web1.15bb1a63b264ce3d7628.jpg",
+    "static/media/contactbg.jpg": "/static/media/contactbg.040d2bf9cd771f9aee28.jpg",
+    "static/media/web2.jpg": "/static/media/web2.7acf09fe8b6fb0bdb02c.jpg",
+    "static/media/web3.jpg": "/static/media/web3.b1d659bf4440088982b8.jpg",
+    "static/media/laptop-hero-banner.webp": "/static/media/laptop-hero-banner.35462f81d17984789cd9.webp",
+    "static/media/aboutbg.jpg": "/static/media/aboutbg.4c1642c2b03efc0cc036.jpg",
+    "static/media/web-dev.jpg": "/static/media/web-dev.d2f03298d909db1cb965.jpg",
+    "static/media/seo.jpg": "/static/media/seo.d4d6b679f801cd3082e7.jpg",
+    "static/media/content-management.jpg": "/static/media/content-management.ae94076d510e48373779.jpg",
+    "static/media/UnicaOne-Regular.ttf": "/static/media/UnicaOne-Regular.90ec15d7871c61ab18f9.ttf",
+    "static/media/me-about.jpg": "/static/media/me-about.2f2ce20db07a6c718cbd.jpg",
+    "index.html": "/index.html",
+    "main.35d05416.css.map": "/static/css/main.35d05416.css.map",
+    "main.388b9b35.js.map": "/static/js/main.388b9b35.js.map",
+    "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.35d05416.css",
+    "static/js/main.388b9b35.js"
+  ]
+}
